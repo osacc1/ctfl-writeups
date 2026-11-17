@@ -3,9 +3,9 @@
 **Category**: web    
 **Points**: 150 (2 flags)     
 **Description**:  
-**Flag 1**
+**Flag 1**   
 ...hguoht tupni resu ezitinas ot togrof evah yam I !sdeen gnisrever txet ruoy lla rof tcefrep si noitacilppa lufesu dna ydnah repus sihT
-**Flag 2**
+**Flag 2**   
 !tuptuo on htiw ppa ym fo noisrev ateb eht gnikaerb yrT ?trams os era uoy kniht uoY
 
 ---
