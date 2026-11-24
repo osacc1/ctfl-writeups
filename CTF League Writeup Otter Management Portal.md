@@ -173,4 +173,4 @@ Since Steve Otters is the CEO, I accessed his account first. In a file titled `p
 There are many more interesting emails that I did not include in this writeup. I found reading them all to be quite helpful as they provide some helpful hints. They are also very entertaining :)
 
 Here's a nice flowchart showing my progression through the system:
-![Flowchart](/assets/chal_8_flowchart)
+![Flowchart](/assets/chal_8_flowchart.svg)
